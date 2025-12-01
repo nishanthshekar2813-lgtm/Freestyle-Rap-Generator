@@ -129,6 +129,6 @@ public class FreestyleRapGUI {
             JOptionPane.showMessageDialog(null, "📁 Rap Saved Successfully!");
         } catch(Exception ex) {
             JOptionPane.showMessageDialog(null, "❌ Error saving rap.");
-        }
-    }
+        }
+    }
 }
